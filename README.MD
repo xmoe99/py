@@ -15,6 +15,6 @@ $ pkg upgrade
 
 $ git clone https://github.com/xmoe99/py.git
 
-$ cd FB-Guard
+$ cd py
 
-$ php guard.php
+$ php FB-Guard.php
